@@ -8,6 +8,9 @@
 
 # API keys and secrets
 .env
+.env-new
+.env-old
+.env-old-removing
 
 # Dependency directory
 node_modules
@@ -30,3 +33,6 @@ dist/**/*
 temp
 
 package-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
